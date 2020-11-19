@@ -7,4 +7,4 @@ const PasswordForget = () => (
   </div>
 );
  
-export default PasswordChange;
+export default PasswordForget;
