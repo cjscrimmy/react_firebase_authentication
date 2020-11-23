@@ -1,5 +1,4 @@
 import React from 'react';
-import PasswordChange from '../PasswordChange';
  
 const PasswordForget = () => (
   <div>
